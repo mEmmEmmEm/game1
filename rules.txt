@@ -1,0 +1,20 @@
+Arrow keys are used to control the Timon. The up arrow implements the character's jump. 
+The down arrow indicates access to places with a half–block size, horizontal position.
+ You can return the character to its original position by pressing the "Down Arrow". 
+Left and right arrows – move around the map. To break the sponge block, the character 
+must adopt horizontal mode and interact with the block using the Left/Right Arrow.
+ Arrow keys are also used to control the Pumbaa. The up arrow implements the character's 
+jump by one block. Holding the arrow down is a kick that can be used to move the stone 
+blocks and "kill" the hyena enemy. Left and right arrows – move around the map. 
+
+To switch between characters, use the "R" key.
+
+The number of lives of each of the characters and the bug points scored can be seen at 
+the top of the playing field. Each character has three health points. You can lose them 
+when you encounter "enemies". The "porcupine" can only be jumped over, the "hyena" can 
+only be killed using the "Pumbaa" ability. If at least one character loses all three life 
+points, the level is considered to be passed. 
+
+To complete the level, you need to reach the finish line and score the maximum number of 
+points (20/20 "bugs"). If all the conditions are met, the next level is started, 
+if level 1 has been completed, or the start menu opens.
